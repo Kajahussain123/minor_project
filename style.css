@@ -1,0 +1,171 @@
+ @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Boogaloo&family=Bree+Serif&family=Caudex:ital@1&family=Kablammo&family=Krona+One&family=Marcellus+SC&family=Noticia+Text:wght@700&family=Quicksand:wght@300&family=Roboto+Slab:wght@500&display=swap');
+
+header{
+    overflow: hidden;
+    position: fixed;
+    z-index: 2;
+    width:100% ;
+   top: 0%;
+}
+.hh1{
+    margin-left: 380px;
+    margin-top: 100px;
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Boogaloo', cursive;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Caudex', serif;
+    font-family: 'Kablammo', cursive;
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Marcellus SC', serif;
+    font-family: 'Noticia Text', serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif; ;
+    color: rgb(10, 126, 20);
+}
+.card{
+    position: relative;
+    z-index: 1;
+}
+.c1{
+    margin-left: 100px;
+    margin-top: -50px;
+    box-shadow: 10px 20px 3px;
+}
+.c2{
+    margin-left: 520px;
+    margin-top: -360px;
+    box-shadow: 10px 20px 3px;
+
+}
+.c3{
+    margin-left: 950px;
+    margin-top: -360px;
+    box-shadow: 10px 20px 3px;
+
+}
+.img1{
+    height:190px ;
+    width: 100px;
+}
+.c4{
+    margin-left: 100px;
+    margin-top: 70px;
+    box-shadow: 10px 20px 3px;
+
+}
+.c5{
+    margin-left: 520px;
+    margin-top: -360px;
+    box-shadow: 10px 20px 3px;
+
+}
+.c6{
+    margin-left: 950px;
+    margin-top: -360px;
+    box-shadow: 10px 20px 3px;
+
+}
+.c7{
+    margin-left: 100px;
+    margin-top: 70px; 
+    box-shadow: 10px 20px 3px;
+
+}
+.c8{
+    margin-left: 520px;
+    margin-top: -360px;
+    box-shadow: 10px 20px 3px;
+
+}
+.c9{
+    margin-left: 950px;
+    margin-top: -360px ;
+    box-shadow: 10px 20px 3px ;
+ 
+
+}
+.img2{
+    height:190px ;
+    width: 100px;
+}
+.img3{
+    height:190px ;
+    width: 100px;
+}
+.img4{
+    height:190px ;
+    width: 100px;
+}
+.btn{
+   margin-left: 80px;
+}
+.card-title{
+    text-align: center;
+}
+body{
+    height: 100;
+    background-size: cover;
+    background-image: url(./images/katsuma-tanaka-Xu9_34DiY1w-unsplash.jpg);
+}
+.footer1{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    border: 10px;
+    border-radius: 2px;
+    border-color: wheat;
+    font-family: 'Black Ops One', cursive;
+font-family: 'Boogaloo', cursive;
+font-family: 'Bree Serif', serif;
+font-family: 'Caudex', serif;
+font-family: 'Kablammo', cursive;
+font-family: 'Krona One', sans-serif;
+font-family: 'Marcellus SC', serif;
+font-family: 'Noticia Text', serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto Slab', serif;
+padding-top: 10px;
+}
+.hhh{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+}
+.f1{
+    color: white;
+    font-size: 250%;
+    margin-left: 520px;
+    margin-top: 1px;
+}
+.f2{
+    color: white;
+    font-size: 250%;
+    margin-left: 40px;
+    margin-top: 1px;
+}
+.f3{
+    color: white;
+    font-size: 250%;
+    margin-left: 53px;
+    margin-top: 1px;
+}
+.f4{
+    color: white;
+    font-size: 250%;
+    margin-left: 50px;
+    margin-top: 1px;
+}
+@media screen and (max-width:768px){
+ .card{
+    width: 100%;
+    margin: 0;
+    margin-left: 30px;
+ }
+ .hh1{
+ font-size: 24px;
+ margin-left: 60px;
+}
+.f1{
+    margin-left: 50px;
+}
+}   
